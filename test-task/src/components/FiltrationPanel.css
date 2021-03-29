@@ -1,0 +1,33 @@
+.filtration-panel {
+    height: 10vw;
+    margin: 3vw;
+    padding: 0.5vw;
+    border: 3px solid grey;
+    border-radius: 5px;
+}
+
+input[type="text"] {
+    height: 2vw;
+    border-radius: 5px;
+}
+
+input[type="checkbox"] {
+    margin: 0 15px 0;
+    transform: scale(2);
+}
+
+button {
+    height: 2vw;
+    margin: 10px 10px 0 0;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.string-length-filter-button {
+    background-color: blueviolet;
+}
+
+.substring-filter-button {
+    background-color: rgb(226, 40, 149);
+}
